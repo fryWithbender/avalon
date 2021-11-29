@@ -1,9 +1,15 @@
-## cmd
+## Mac
 
 + `brew install v2rayx`
-  + install v2rayx for mac
   + `brew install alfred`
 
++ `brew cask install v2rayx`
+
++ v2rayx
+  + v2ray core
+
+## ios
++ Kitsunebi
 
 ## config.json
 <!-- win,mac -->
@@ -24,5 +30,7 @@
 + [v2ray/dist](https://github.com/v2ray/dist/)
 <!-- mac -->
 + [v2ray/homebrew-v2ray](https://github.com/v2ray/homebrew-v2ray)
++ [v2rayX](https://github.com/Cenmrev/V2RayX)
+  + v2ray UI for MAC
 <!-- linux -->
 + [archlinux](https://archlinux.org/packages/community/x86_64/v2ray/)
